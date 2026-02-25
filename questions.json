@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Que signifie HTML ?",
+    "answers": ["HyperText Markup Language", "HighText Machine Language", "Home Tool Markup Language"],
+    "correct": 0
+  },
+  {
+    "question": "Que signifie CSS ?",
+    "answers": ["Creative Style System", "Cascading Style Sheets", "Computer Style Syntax"],
+    "correct": 1
+  },
+  {
+    "question": "Quel langage rend une page web interactive ?",
+    "answers": ["HTML", "JavaScript", "SQL"],
+    "correct": 1
+  },
+  {
+    "question": "Quelle extension pour un fichier JavaScript ?",
+    "answers": [".js", ".java", ".py"],
+    "correct": 0
+  },
+  {
+    "question": "Quelle balise HTML crée un lien ?",
+    "answers": ["<a>", "<link>", "<href>"],
+    "correct": 0
+  },
+  {
+    "question": "Quelle propriété CSS change la couleur du texte ?",
+    "answers": ["text-color", "color", "font-color"],
+    "correct": 1
+  },
+  {
+    "question": "Que signifie HTTP ?",
+    "answers": ["HyperText Transfer Protocol", "HighText Transfer Program", "HyperTool Transfer Process"],
+    "correct": 0
+  },
+  {
+    "question": "Quel protocole est sécurisé ?",
+    "answers": ["HTTP", "FTP", "HTTPS"],
+    "correct": 2
+  },
+  {
+    "question": "Quelle base de données est relationnelle ?",
+    "answers": ["MongoDB", "MySQL", "Firebase"],
+    "correct": 1
+  },
+  {
+    "question": "SQL sert à ?",
+    "answers": ["Créer du style", "Manipuler des bases de données", "Compiler du code"],
+    "correct": 1
+  },
+  {
+    "question": "Git sert à ?",
+    "answers": ["Créer des serveurs", "Gérer des versions", "Coder en Java"],
+    "correct": 1
+  },
+  {
+    "question": "Quelle commande Git envoie le code sur un dépôt distant ?",
+    "answers": ["git push", "git pull", "git init"],
+    "correct": 0
+  },
+  {
+    "question": "Que signifie CPU ?",
+    "answers": ["Central Processing Unit", "Computer Personal Unit", "Central Print Unit"],
+    "correct": 0
+  },
+  {
+    "question": "Combien de bits dans un octet ?",
+    "answers": ["4", "8", "16"],
+    "correct": 1
+  },
+  {
+    "question": "Quel système est open source ?",
+    "answers": ["Windows", "Linux", "macOS"],
+    "correct": 1
+  },
+  {
+    "question": "Quelle adresse IP est valide ?",
+    "answers": ["192.168.1.1", "999.999.999.999", "abc.def.ghi.jkl"],
+    "correct": 0
+  },
+  {
+    "question": "Un pare-feu sert à ?",
+    "answers": ["Protéger un réseau", "Accélérer internet", "Nettoyer un disque"],
+    "correct": 0
+  },
+  {
+    "question": "Le responsive design permet ?",
+    "answers": ["Adapter aux écrans", "Augmenter la sécurité", "Compresser les images"],
+    "correct": 0
+  },
+  {
+    "question": "Quelle balise affiche une image ?",
+    "answers": ["<img>", "<image>", "<pic>"],
+    "correct": 0
+  },
+  {
+    "question": "Java est ?",
+    "answers": ["Un langage compilé", "Un navigateur", "Un système d'exploitation"],
+    "correct": 0
+  },
+  {
+    "question": "PHP est principalement utilisé ?",
+    "answers": ["Côté serveur", "Côté client uniquement", "Pour le design"],
+    "correct": 0
+  },
+  {
+    "question": "Quel outil permet d'inspecter une page web ?",
+    "answers": ["DevTools", "Excel", "Photoshop"],
+    "correct": 0
+  },
+  {
+    "question": "Une API permet ?",
+    "answers": ["Connecter des applications", "Créer des animations", "Installer un OS"],
+    "correct": 0
+  },
+  {
+    "question": "Quel protocole sert à envoyer des emails ?",
+    "answers": ["SMTP", "FTP", "SSH"],
+    "correct": 0
+  },
+  {
+    "question": "FTP sert à ?",
+    "answers": ["Transférer des fichiers", "Protéger un site", "Compiler du code"],
+    "correct": 0
+  },
+  {
+    "question": "DNS signifie ?",
+    "answers": ["Domain Name System", "Digital Network System", "Data Name Server"],
+    "correct": 0
+  },
+  {
+    "question": "Une base NoSQL ?",
+    "answers": ["MongoDB", "PostgreSQL", "Oracle"],
+    "correct": 0
+  },
+  {
+    "question": "Quel langage structure une page ?",
+    "answers": ["HTML", "CSS", "Python"],
+    "correct": 0
+  },
+  {
+    "question": "Quel symbole commence un commentaire JS ?",
+    "answers": ["//", "#", "<!--"],
+    "correct": 0
+  },
+  {
+    "question": "Quelle méthode affiche dans la console ?",
+    "answers": ["console.log()", "print()", "echo()"],
+    "correct": 0
+  },
+  {
+    "question": "Quelle structure permet une condition ?",
+    "answers": ["if", "for", "loop"],
+    "correct": 0
+  },
+  {
+    "question": "Quel langage est orienté objet ?",
+    "answers": ["Java", "HTML", "CSS"],
+    "correct": 0
+  },
+  {
+    "question": "Quel port utilise HTTP ?",
+    "answers": ["80", "21", "25"],
+    "correct": 0
+  },
+  {
+    "question": "Quel port utilise HTTPS ?",
+    "answers": ["443", "22", "110"],
+    "correct": 0
+  },
+  {
+    "question": "SSH sert à ?",
+    "answers": ["Connexion sécurisée distante", "Créer un site", "Envoyer des mails"],
+    "correct": 0
+  },
+  {
+    "question": "Un VPN permet ?",
+    "answers": ["Connexion sécurisée", "Accélérer le CPU", "Nettoyer virus"],
+    "correct": 0
+  },
+  {
+    "question": "Un framework JS populaire ?",
+    "answers": ["React", "MySQL", "Apache"],
+    "correct": 0
+  },
+  {
+    "question": "Une attaque phishing vise à ?",
+    "answers": ["Voler des informations", "Optimiser un site", "Améliorer le design"],
+    "correct": 0
+  },
+  {
+    "question": "Le cloud computing signifie ?",
+    "answers": ["Stockage et services en ligne", "Nettoyage disque", "Compression données"],
+    "correct": 0
+  },
+  {
+    "question": "JSON signifie ?",
+    "answers": ["JavaScript Object Notation", "Java Syntax Object Network", "Joint System Object Node"],
+    "correct": 0
+  },
+  {
+    "question": "Une boucle en JS ?",
+    "answers": ["for", "if", "switch"],
+    "correct": 0
+  },
+  {
+    "question": "Quelle méthode convertit en nombre ?",
+    "answers": ["parseInt()", "toString()", "split()"],
+    "correct": 0
+  },
+  {
+    "question": "Quel est un IDE ?",
+    "answers": ["VS Code", "Chrome", "Windows"],
+    "correct": 0
+  },
+  {
+    "question": "Une adresse MAC est ?",
+    "answers": ["Adresse physique réseau", "Adresse email", "Adresse IP publique"],
+    "correct": 0
+  },
+  {
+    "question": "Un switch réseau sert à ?",
+    "answers": ["Connecter des appareils", "Protéger antivirus", "Créer base données"],
+    "correct": 0
+  },
+  {
+    "question": "Quel langage est utilisé en data science ?",
+    "answers": ["Python", "HTML", "CSS"],
+    "correct": 0
+  },
+  {
+    "question": "Quel type de malware bloque les données contre rançon ?",
+    "answers": ["Ransomware", "Firewall", "Switch"],
+    "correct": 0
+  },
+  {
+    "question": "Une variable en JS se déclare avec ?",
+    "answers": ["let", "var seulement", "int"],
+    "correct": 0
+  },
+  {
+    "question": "Quelle méthode ajoute un élément à un tableau ?",
+    "answers": ["push()", "pop()", "shift()"],
+    "correct": 0
+  },
+  {
+    "question": "Quel langage est principalement utilisé pour Android ?",
+    "answers": ["Java", "Swift", "PHP"],
+    "correct": 0
+  }
+]
